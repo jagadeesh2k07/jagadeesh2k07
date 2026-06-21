@@ -1,31 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Jagadeesh 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E08D2B&center=true&vCenter=true&width=480&lines=CSE+Student+%40+JNTU+Kakinada;Frontend+%2F+JavaScript+Developer;Learning+DSA+%2B+the+MERN+Stack;Building+one+project+at+a+time" alt="Typing SVG" />
+</p>
 
-🚀 CSE student @ JNTU Kakinada
-🌐 MERN stack developer
-📚 Learning DSA & full-stack development
-💡 Building projects and improving every day
-
-- 🔭 I'm currently working on **LearnKit** (a student progress dashboard) and a **fake account detection analytics tool**
-- 🌱 I'm currently learning **DSA** and the **MERN stack**
-- 👯 I'm looking to collaborate on **frontend/full-stack web projects**
-- 🤔 I'm looking for help with **backend & deployment best practices**
-- 💬 Ask me about **HTML/CSS/JS, UI design, or DSA problem-solving**
-- 📫 How to reach me: **jagadeesh2k07@gmail.com**
-- ⚡ Fun fact: **I like rebuilding the same UI in different design styles to practice CSS**
-
-### 📌 Pinned Projects
-- 🌐 [LearnKit](https://learnpathnhub-lilac.vercel.app/) — student dashboard for tracking courses, progress & assignments ([repo](https://github.com/jagadeesh2k07/learnpathnhub))
-- 🛡️ [Fake Account Detector](https://fakeacc.vercel.app/) — client-side security analytics dashboard for flagging suspicious profiles ([repo](https://github.com/jagadeesh2k07/fakeaccdetect))
-- 💧 [HydroScan](https://github.com/jagadeesh2k07/hydroscan-water-analyzer) — smartphone water quality analysis prototype using optical sensing & RGB extraction
-- 🗂️ [Portfolio](https://github.com/jagadeesh2k07/Portfolio) — personal portfolio site
-
-### 🛠️ Stack
-`JavaScript` · `React` · `Node.js` · `MongoDB` · `Express` · `HTML5` · `CSS3` · `Git`
-
-### 📫 Connect
-- LinkedIn: [k-jagadeesh](https://www.linkedin.com/in/k-jagadeesh-138670321/)
-- LeetCode: [jagadeesh1302](https://leetcode.com/jagadeesh1302)
+<p align="center">
+  <a href="https://www.linkedin.com/in/k-jagadeesh-138670321/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://leetcode.com/jagadeesh1302"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+  <a href="mailto:jagadeesh2k07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jagadeesh2k07&show_icons=true&theme=default)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jagadeesh2k07)
+
+### 💫 About Me
+Second-year CS student focused on frontend development and clean UI design — currently working through DSA and starting to pick up the MERN stack.
+
+- 🌱 Currently learning: **React, Node.js, MongoDB**
+- 🎯 Practicing DSA on LeetCode
+
+### 🛠️ Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+
+### 📌 Featured Projects
+- 🌐 **[LearnKit](https://learnpathnhub-lilac.vercel.app/)** — student dashboard for courses, progress & assignments
+- 🛡️ **[Fake Account Detector](https://fakeacc.vercel.app/)** — client-side security analytics dashboard
+- 💧 **[HydroScan](https://github.com/jagadeesh2k07/hydroscan-water-analyzer)** — smartphone water quality analysis prototype
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jagadeesh2k07&show_icons=true&theme=default&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=jagadeesh2k07&theme=default&hide_border=true" height="165" />
+</p>
