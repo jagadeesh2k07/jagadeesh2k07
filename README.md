@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**jagadeesh2k07/jagadeesh2k07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 CSE student @ JNTU Kakinada
+🌐 MERN stack developer
+📚 Learning DSA & full-stack development
+💡 Building projects and improving every day
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on **LearnKit** (a student progress dashboard) and a **fake account detection analytics tool**
+- 🌱 I'm currently learning **DSA** and the **MERN stack**
+- 👯 I'm looking to collaborate on **frontend/full-stack web projects**
+- 🤔 I'm looking for help with **backend & deployment best practices**
+- 💬 Ask me about **HTML/CSS/JS, UI design, or DSA problem-solving**
+- 📫 How to reach me: **jagadeesh2k07@gmail.com**
+- ⚡ Fun fact: **I like rebuilding the same UI in different design styles to practice CSS**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Pinned Projects
+- 🌐 [LearnKit](https://learnpathnhub-lilac.vercel.app/) — student dashboard for tracking courses, progress & assignments ([repo](https://github.com/jagadeesh2k07/learnpathnhub))
+- 🛡️ [Fake Account Detector](https://fakeacc.vercel.app/) — client-side security analytics dashboard for flagging suspicious profiles ([repo](https://github.com/jagadeesh2k07/fakeaccdetect))
+- 💧 [HydroScan](https://github.com/jagadeesh2k07/hydroscan-water-analyzer) — smartphone water quality analysis prototype using optical sensing & RGB extraction
+- 🗂️ [Portfolio](https://github.com/jagadeesh2k07/Portfolio) — personal portfolio site
+
+### 🛠️ Stack
+`JavaScript` · `React` · `Node.js` · `MongoDB` · `Express` · `HTML5` · `CSS3` · `Git`
+
+### 📫 Connect
+- LinkedIn: [k-jagadeesh](https://www.linkedin.com/in/k-jagadeesh-138670321/)
+- LeetCode: [jagadeesh1302](https://leetcode.com/jagadeesh1302)
+
+---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jagadeesh2k07&show_icons=true&theme=default)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jagadeesh2k07)
