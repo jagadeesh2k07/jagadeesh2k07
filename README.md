@@ -26,7 +26,7 @@ Second-year CS student focused on frontend development and clean UI design — c
 ### 📌 Featured Projects
 - 🌐 **[LearnKit](https://learnpathnhub-lilac.vercel.app/)** — student dashboard for courses, progress & assignments
 - 🛡️ **[Fake Account Detector](https://fakeacc.vercel.app/)** — client-side security analytics dashboard
-- 💧 **[HydroScan](https://github.com/jagadeesh2k07/hydroscan-water-analyzer)** — smartphone water quality analysis prototype
+- 💧 **[HydroScan](https://hydroscan1.vercel.app/)** — smartphone water quality analysis prototype
 
 ### 📊 GitHub Stats
 <p align="left">
