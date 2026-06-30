@@ -1,6 +1,9 @@
-<h1 align="center">Hi, I'm Jagadeesh 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E08D2B&center=true&vCenter=true&width=480&lines=CSE+Student+%40+JNTU+Kakinada;Frontend+%2F+JavaScript+Developer;Learning+DSA+%2B+the+MERN+Stack;Building+one+project+at+a+time" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E08D2B&height=180&section=header&text=Hi%2C%20I%27m%20Jagadeesh%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E08D2B&center=true&vCenter=true&width=480&lines=CSE+Student+%40+JNTU+Kakinada;Frontend+%2F+JavaScript+Developer;Learning+DSA+%2B+the+MERN+Stack;Building+one+project+at+a+time" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,6 +19,7 @@ Second-year CS student focused on frontend development and clean UI design — c
 
 - 🌱 Currently learning: **React, Node.js, MongoDB**
 - 🎯 Practicing DSA on LeetCode
+- 💬 Ask me about HTML, CSS, JavaScript, or UI design
 
 ### 🛠️ Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -30,6 +34,5 @@ Second-year CS student focused on frontend development and clean UI design — c
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jagadeesh2k07&show_icons=true&theme=default&hide_border=true" height="165" />
   <img src="https://streak-stats.demolab.com/?user=jagadeesh2k07&theme=default&hide_border=true" height="165" />
 </p>
