@@ -17,7 +17,7 @@
 Second-year CS student focused on frontend development and clean UI design — currently working through DSA and starting to pick up the MERN stack.
 
 - 🌱 Currently learning: **React, Node.js, MongoDB**
-- 🎯 Practicing DSA on LeetCode
+- 🎯 Practicing DSA on LeetCode questions
 - 💬 Ask me about HTML, CSS, JavaScript, or UI design
 
 ### 🛠️ Tech Stack
